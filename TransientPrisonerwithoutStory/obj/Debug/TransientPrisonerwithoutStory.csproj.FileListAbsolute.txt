@@ -1,0 +1,6 @@
+c:\users\tareq\documents\visual studio 2015\Projects\TransientPrisonerwithoutStory\TransientPrisonerwithoutStory\bin\Debug\TransientPrisonerwithoutStory.exe.config
+c:\users\tareq\documents\visual studio 2015\Projects\TransientPrisonerwithoutStory\TransientPrisonerwithoutStory\bin\Debug\TransientPrisonerwithoutStory.exe
+c:\users\tareq\documents\visual studio 2015\Projects\TransientPrisonerwithoutStory\TransientPrisonerwithoutStory\bin\Debug\TransientPrisonerwithoutStory.pdb
+c:\users\tareq\documents\visual studio 2015\Projects\TransientPrisonerwithoutStory\TransientPrisonerwithoutStory\obj\Debug\TransientPrisonerwithoutStory.csprojResolveAssemblyReference.cache
+c:\users\tareq\documents\visual studio 2015\Projects\TransientPrisonerwithoutStory\TransientPrisonerwithoutStory\obj\Debug\TransientPrisonerwithoutStory.exe
+c:\users\tareq\documents\visual studio 2015\Projects\TransientPrisonerwithoutStory\TransientPrisonerwithoutStory\obj\Debug\TransientPrisonerwithoutStory.pdb
